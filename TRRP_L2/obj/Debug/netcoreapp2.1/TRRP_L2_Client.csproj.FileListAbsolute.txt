@@ -1,0 +1,14 @@
+C:\Users\Gerty\source\repos\TRRP_L2\TRRP_L2\bin\Debug\netcoreapp2.1\TRRP_L2_Client.deps.json
+C:\Users\Gerty\source\repos\TRRP_L2\TRRP_L2\bin\Debug\netcoreapp2.1\TRRP_L2_Client.runtimeconfig.json
+C:\Users\Gerty\source\repos\TRRP_L2\TRRP_L2\bin\Debug\netcoreapp2.1\TRRP_L2_Client.runtimeconfig.dev.json
+C:\Users\Gerty\source\repos\TRRP_L2\TRRP_L2\bin\Debug\netcoreapp2.1\TRRP_L2_Client.dll
+C:\Users\Gerty\source\repos\TRRP_L2\TRRP_L2\bin\Debug\netcoreapp2.1\TRRP_L2_Client.pdb
+C:\Users\Gerty\source\repos\TRRP_L2\TRRP_L2\obj\Debug\netcoreapp2.1\TRRP_L2_Client.csproj.CoreCompileInputs.cache
+C:\Users\Gerty\source\repos\TRRP_L2\TRRP_L2\obj\Debug\netcoreapp2.1\TRRP_L2_Client.AssemblyInfoInputs.cache
+C:\Users\Gerty\source\repos\TRRP_L2\TRRP_L2\obj\Debug\netcoreapp2.1\TRRP_L2_Client.AssemblyInfo.cs
+C:\Users\Gerty\source\repos\TRRP_L2\TRRP_L2\obj\Debug\netcoreapp2.1\TRRP_L2_Client.dll
+C:\Users\Gerty\source\repos\TRRP_L2\TRRP_L2\obj\Debug\netcoreapp2.1\TRRP_L2_Client.pdb
+C:\Users\Gerty\source\repos\TRRP_L2\TRRP_L2\obj\Debug\netcoreapp2.1\TRRP_L2_Client.csprojAssemblyReference.cache
+C:\Users\Gerty\source\repos\TRRP_L2\TRRP_L2\bin\Debug\netcoreapp2.1\Normalizer.dll
+C:\Users\Gerty\source\repos\TRRP_L2\TRRP_L2\bin\Debug\netcoreapp2.1\Normalizer.pdb
+C:\Users\Gerty\source\repos\TRRP_L2\TRRP_L2\obj\Debug\netcoreapp2.1\TRRP_L2_Client.csproj.CopyComplete

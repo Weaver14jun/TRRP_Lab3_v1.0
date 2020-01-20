@@ -1,0 +1,18 @@
+[
+  {
+    "Id": 1,
+    "Processor": "Intel core i5",
+    "Motherboard": "Asus Prime",
+    "GraphicsCard": "GTX 1060",
+    "Ram": "HyperX 8GB",
+    "Os": "Windows 7"
+  },
+  {
+    "Id": 2,
+    "Processor": "Ryzen 3600",
+    "Motherboard": "MSI mark2",
+    "GraphicsCard": "GTX 1070",
+    "Ram": "Crutial 12GB",
+    "Os": "Windows 10"
+  }
+]
